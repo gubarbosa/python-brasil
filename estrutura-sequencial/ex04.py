@@ -1,4 +1,5 @@
-#Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+"""Faça um Programa que peça as 4 notas bimestrais e mostre a média."""
+
 def media():
     nota_1 = int(input('Digite a primeira nota bimestral:'))
     nota_2 = int(input('Digite a segunda nota bimestral:'))

@@ -1,4 +1,5 @@
-#Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+"""Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário."""
+
 def dobro_area_quadrado():
     lado_quadrado = int(input('Digite o valor do lado do quadrado:'))
     area_quadrado = lado_quadrado ** 2
