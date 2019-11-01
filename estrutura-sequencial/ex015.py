@@ -18,5 +18,6 @@ Obs.: Salário Bruto - Descontos = Salário Líquido."""
 lucro_hora = float(input('Dinheiro ganho por hora: '))
 horas_mensais = float(input('Horas trabalhadas no mês: '))
 salario_bruto = lucro_hora * horas_mensais
-inss = salario_bruto * 
+inss = salario_bruto *
+
 def salarios():
